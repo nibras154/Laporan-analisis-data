@@ -41,6 +41,8 @@ matplotlib (Data Visualization)
 seaborn (Statistical Data Visualization)
 Grafik Rata-Rata Nilai per Mata Pelajaran
 Rata-Rata Nilai per Mapel
+<img width="795" height="679" alt="image" src="https://github.com/user-attachments/assets/ee3fe494-b08c-4ebe-b4fa-f4616a2713ea" />
 
-Boxplot Sebaran Nilai per Mata Pelajaran
-Boxplot Nilai per Mapel
+Sebaran Nilai per Mata Pelajaran
+<img width="1916" height="1042" alt="image" src="https://github.com/user-attachments/assets/25bdfa7b-b8b8-4441-8075-1765e7a04b1f" />
+
